@@ -5,7 +5,7 @@ B: Yeah, the mountains were stunning. Made me want to go camping.
 A: I was thinking about camping next summer. That sounds fun—I haven’t been in years.  
 B: You should. By the way, I bought a new tent last week. It's a two-person, lightweight one.  
 A: Nice! Speaking of buying, I need new shoes. I’m debating between running shoes and something for hiking.  
-B: I'm just looking for something comfy for everyday wear. What about the documentary, did you notice how the narrator kept interrupting the locals?
+B: I'm just looking for something comfy for everyday wear. What about it, did you notice how the narrator kept interrupting the locals?
 
 * **Segue type:** Circling back.
 * **Topical distance:** High (multiple shifts: documentary → camping → tent → shoes → hiking vs. running).
