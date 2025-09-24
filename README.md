@@ -49,7 +49,7 @@ A: Some of them went over my head though.
 B: Same. Oh, I tried cooking curry last night. It's a lot of work.  
 A: How'd it turn out? Spicy, but tasty. I should try making that too.  
 B: Do it, it’s easier than it looks.  
-A: You know, that one joke about the awkward family dinner just cracked me up later.
+A: You know, that one about the awkward family dinner just cracked me up later.
 
 * **Segue type:** Circling back.
 * **Topical distance:** Medium (two shifts: special → curry → cooking).
