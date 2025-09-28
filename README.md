@@ -1,3 +1,43 @@
+# Deep anaphora
+
+## anaphora thickness x segue presence
+
+A: Did you see that travel documentary?  
+B: Yeah, the mountains were stunning. Made me want to go camping.  
+A: I was thinking about camping next summer. That sounds fun—I haven’t been in years.  
+B: You should. By the way, I bought a new tent last week. It's a two-person, lightweight one.  
+A: Nice! Speaking of buying, I need new shoes. I’m debating between running shoes and something for hiking.  
+B: I'm just looking for something comfy for everyday wear...
+
+**Segue thick**
+... By the way did you notice how the narrator kept interrupting the locals there?
+
+**No segue thick**
+... Did you notice how the narrator kept interrupting the locals there?
+
+**Segue Thin A**
+... By the way did you notice how he kept interrupting the locals there?
+
+**No segue Thin A**
+... Did you notice how he kept interrupting the locals there?
+
+**Segue Thin B**
+... By the way did you notice how the narrator kept interrupting them?
+
+**No segue Thin B**
+... Did you notice how the narrator kept interrupting them?
+
+**Segue Very Thin**
+... By the way did you notice how he kept interrupting them?
+
+**No segue Very Thin**
+... Did you notice how he kept interrupting them?
+
+
+## examples
+
+
+
 ### **1. Travel Documentary**
 
 A: Did you see that travel documentary?  
